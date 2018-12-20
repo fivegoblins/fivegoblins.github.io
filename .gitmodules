@@ -1,0 +1,3 @@
+[submodule "Vue-Firebase-Chat-App"]
+	path = Vue-Firebase-Chat-App
+	url = https://github.com/fivegoblins/Vue-Firebase-Chat-App.git
